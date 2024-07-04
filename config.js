@@ -9,22 +9,22 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
+[212658594530', 'ahmed aligue', true],
 ['212605784394', 'imillie', false],
 ['212693227969', '8bal', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '212713542982',
+ pairingNumber: '212713542982',
+ nameown: 'ahmed aligue',
+ nomerown: 212658594530',
  packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
- stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ author: 'ahmed aligue',
+ namebot: 'senkubot',
+ wm: ''-'_꩜ senku 𝘣𝘰𝘵 ꩜_'-'',
+ stickpack: 'senku bot',
+ stickauth: 'senku ʙᴏᴛ '
 }
 
 // Thumbnail 
